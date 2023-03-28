@@ -1,0 +1,105 @@
+.d {
+    display: flex;
+    justify-content: space-between;
+}
+.btn {
+    background-color: #c3e27e;
+    border-radius: 30px;
+}
+.try {
+    position: absolute;
+    width: 270px;
+    height: 70px;
+    left: 1079px;
+    top: 229px;
+    border-style:none;
+}
+.inputik {
+    position: absolute;
+    width: 314px;
+    height: 70px;
+    left: 720px;
+    top: 229px;
+    border-radius: 30px;
+    border: 3px solid #000000;
+}
+.description {
+    font-family: 'Jost';
+    font-style: normal;
+    font-size:40px;
+}
+.title {
+    font-family: 'Russo One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    display: flex;
+}
+.stats {
+    font-family: Jost;
+    font-style: Regular;
+    line-height: 100%;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 72px;
+    color: #000000;
+    margin-left: 1079px;
+
+}
+.question {
+    position:absolute;
+    font-family: 'Russo One';
+    font-size: 100px;
+    margin-left: 200px;
+    margin-top: 50px; 
+}
+.image {
+
+    width: 329px;
+    height: 335px;
+    margin-left: 80px;
+    margin-top: 187px; 
+}
+.imagebg {
+    box-sizing: border-box;
+    position: absolute;
+    width: 500px;
+    height: 541px;
+    left: 109px;
+    top: 429px;
+    border: 10px solid #000000;
+    background-color: #CFFE67;
+    border-radius: 40px;
+
+}
+.return {
+    font-size: 700;
+    font-family: 'Russo One';
+    position: absolute;
+    width: 315px;
+    height: 128px;
+    left: 1047px;
+    top: 832px;
+    border-style: none;
+}
+.record {
+
+}
+.titlebg {
+    width: 681px;
+    height: 542px;
+    background-color: #E5E0FE;
+    border-bottom-right-radius:50px;
+    }
+.returnbg {
+    background-color:#E5E0FE;
+    width: 420px;
+    height: 348px;
+    margin-left: 1152px;
+    top: 744px;
+    border-bottom-left-radius:50px;
+    border-top-left-radius:50px;
+    border-style: none;
+    }
+
